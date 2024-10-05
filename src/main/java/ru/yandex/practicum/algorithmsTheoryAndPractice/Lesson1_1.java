@@ -25,7 +25,6 @@ public class Lesson1_1 {
 /*
 C++
 #include <iostream>
-
 int main(){
     int a = 0;
     int b = 0;
